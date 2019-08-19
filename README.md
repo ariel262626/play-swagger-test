@@ -1,4 +1,4 @@
-# sample_pet_clinic_play_26_apis
+ An unexpected error occurred: "https://registry.yarnpkg.com/GIT: Not found".# sample_pet_clinic_play_26_apis
 
 SamplePetClinicPlay26Apis - JavaScript client for sample_pet_clinic_play_26_apis
 Sample Pet clinic play 2.6 apis
